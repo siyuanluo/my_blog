@@ -6,4 +6,4 @@ The Theme is rewritted by Yin-Wang Tiny and Beautiful Blog, Please read my First
 
 <b>This Blog is based on Github Issue, it will auto-change your issue under the repo to a blog by using Github API.</b>
 
-You can commit everything under my issue/
+You can commit everything under my issue.
